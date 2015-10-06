@@ -1,0 +1,14 @@
+c:\users\nguye\documents\visual studio 2015\Projects\CompressFiles\CompressFiles\bin\Debug\CompressFiles.exe.config
+c:\users\nguye\documents\visual studio 2015\Projects\CompressFiles\CompressFiles\obj\Debug\CompressFiles.csprojResolveAssemblyReference.cache
+c:\users\nguye\documents\visual studio 2015\Projects\CompressFiles\CompressFiles\obj\Debug\MainWindow.g.cs
+c:\users\nguye\documents\visual studio 2015\Projects\CompressFiles\CompressFiles\obj\Debug\App.g.cs
+c:\users\nguye\documents\visual studio 2015\Projects\CompressFiles\CompressFiles\obj\Debug\CompressFiles_MarkupCompile.cache
+c:\users\nguye\documents\visual studio 2015\Projects\CompressFiles\CompressFiles\obj\Debug\CompressFiles_MarkupCompile.lref
+c:\users\nguye\documents\visual studio 2015\Projects\CompressFiles\CompressFiles\bin\Debug\CompressFiles.exe
+c:\users\nguye\documents\visual studio 2015\Projects\CompressFiles\CompressFiles\bin\Debug\CompressFiles.pdb
+c:\users\nguye\documents\visual studio 2015\Projects\CompressFiles\CompressFiles\obj\Debug\MainWindow.baml
+c:\users\nguye\documents\visual studio 2015\Projects\CompressFiles\CompressFiles\obj\Debug\CompressFiles.g.resources
+c:\users\nguye\documents\visual studio 2015\Projects\CompressFiles\CompressFiles\obj\Debug\CompressFiles.Properties.Resources.resources
+c:\users\nguye\documents\visual studio 2015\Projects\CompressFiles\CompressFiles\obj\Debug\CompressFiles.csproj.GenerateResource.Cache
+c:\users\nguye\documents\visual studio 2015\Projects\CompressFiles\CompressFiles\obj\Debug\CompressFiles.exe
+c:\users\nguye\documents\visual studio 2015\Projects\CompressFiles\CompressFiles\obj\Debug\CompressFiles.pdb
